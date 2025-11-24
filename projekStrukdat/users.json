@@ -1,0 +1,58 @@
+{
+  "admin": {
+    "password": "admin"
+  },
+  "admin1": {
+    "password": "hehe",
+    "favorites": [
+      {
+        "id": "52954",
+        "name": "Hot and Sour Soup",
+        "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+        "instructions": "STEP 1 - MAKING THE SOUP\r\nIn a wok add chicken broth and wait for it to boil.\r\nNext add salt, sugar, sesame seed oil, white pepper, hot pepper sauce, vinegar and soy sauce and stir for few seconds.\r\nAdd Tofu, mushrooms, black wood ear mushrooms to the wok.\r\nTo thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your soup until it's the right thickness.\r\nNext add 1 egg slightly beaten with a knife or fork and add it to the soup and stir for 8 seconds\r\nServe the soup in a bowl and add the bbq pork and sliced green onions on top.",
+        "category": "Pork",
+        "area": "Chinese"
+      },
+      {
+        "id": "53268",
+        "name": "Roasted chicken with creamy walnut sauce",
+        "image": "https://www.themealdb.com/images/media/meals/ro8mzj1763800655.jpg",
+        "instructions": "step 1\r\nHeat oven to 200C/180C fan/gas 6. In a roasting tin, toss together the chicken, cumin, paprika, 1 tbsp olive oil and seasoning. Cook for 40 mins until the chicken is crisp and cooked through.\r\n\r\nstep 2\r\nMeanwhile, tear up 1 pitta bread and place in a small bowl. Pour over a couple of tbsp chicken stock and leave to soak. Dry-fry the walnuts in a frying pan for about 3 mins until golden and toasted. Set aside. Heat the remaining oil in the pan and cook the onion and garlic until softened. Place the softened pitta bread, onion mixture and most of the nuts into a blender. Pour over the rest of the chicken stock and whizz together until a rough paste forms. Return the mixture to the pan. Add the cream and lemon juice, season and keep warm.\r\n\r\nstep 3\r\nWhen the chicken is cooked, arrange on a platter. Stir the coriander through the sauce and spoon into a bowl. Roughly chop the remaining walnuts and scatter over the chicken. Toast the pittas, cut into wedges and serve alongside",
+        "category": "Chicken",
+        "area": "Turkish"
+      }
+    ]
+  },
+  "darren": {
+    "password": "222"
+  },
+  "test": {
+    "password": "test123",
+    "favorites": [
+      {
+        "id": "52893",
+        "name": "Apple & Blackberry Crumble",
+        "image": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+        "instructions": "Heat oven to 190C/170C fan/gas 5. Tip the flour and sugar into a large bowl. Add the butter, then rub into the flour using your fingertips to make a light breadcrumb texture. Do not overwork it or the crumble will become heavy. Sprinkle the mixture evenly over a baking sheet and bake for 15 mins or until lightly coloured.\r\nMeanwhile, for the compote, peel, core and cut the apples into 2cm dice. Put the butter and sugar in a medium saucepan and melt together over a medium heat. Cook for 3 mins until the mixture turns to a light caramel. Stir in the apples and cook for 3 mins. Add the blackberries and cinnamon, and cook for 3 mins more. Cover, remove from the heat, then leave for 2-3 mins to continue cooking in the warmth of the pan.\r\nTo serve, spoon the warm fruit into an ovenproof gratin dish, top with the crumble mix, then reheat in the oven for 5-10 mins. Serve with vanilla ice cream.",
+        "category": "Dessert",
+        "area": "British"
+      },
+      {
+        "id": "53158",
+        "name": "Air fryer patatas bravas",
+        "image": "https://www.themealdb.com/images/media/meals/3m8yae1763257951.jpg",
+        "instructions": "step 1\r\nSoak the potatoes in just-boiled water for 30 mins, then drain and leave to air-dry for 5 mins. Heat the air fryer to 200C. Tip the potatoes into a bowl and drizzle over 1 tbsp of the oil and add 1/2 tsp each of salt and freshly ground black pepper. Mix to coat the potatoes all over, then tip into the air fryer basket and cook for 20-30 mins until crisp and golden.\r\n\r\nstep 2\r\nMeanwhile, heat the remaining oil in a small pan over a medium-low heat and fry the onion for 8-10 mins until softened but not golden. Stir in the garlic and cook for a minute before adding the paprika and cooking for 30 seconds more. Stir in the tomato pur\u00e9e, cook for 1 min, then tip in the chopped tomatoes. Cook for 5-10 mins over a medium heat until thickened slightly.\r\n\r\nstep 3\r\nOnce the potatoes are cooked, tip out onto a platter and pour over the tomato sauce. Sprinkle with the basil leaves, then serve.",
+        "category": "Vegetarian",
+        "area": "Spanish"
+      },
+      {
+        "id": "53150",
+        "name": "Padron peppers",
+        "image": "https://www.themealdb.com/images/media/meals/0ljvc51763248075.jpg",
+        "instructions": "step 1\r\nHeat the olive oil in a large frying pan over a high heat, or if using an air-fryer, heat to 205C for 3 mins. Fry the peppers, stirring frequently, for 5 mins until blistered and wilted. The peppers should be soft and slightly charred.\r\n\r\nstep 2\r\nTransfer the peppers to a serving plate and season with some sea salt. Serve with dips or as part of a tapas spread, if you like.",
+        "category": "Vegan",
+        "area": "Spanish"
+      }
+    ]
+  }
+}
